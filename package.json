@@ -1,0 +1,23 @@
+{
+  "name": "postgres_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanstey/postgres_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanstey/postgres_js/issues"
+  },
+  "homepage": "https://github.com/nanstey/postgres_js#readme",
+  "dependencies": {
+    "pg": "^6.1.5"
+  }
+}
